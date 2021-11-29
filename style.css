@@ -82,7 +82,7 @@ nav ul li{
     background-image: url("image/menu1.png");
     background-size: 100% 87%;
     background-repeat: no-repeat;
-    width: 1349px;
+    width: 100%px;
 }
 
 .Inner_Box{
@@ -303,7 +303,7 @@ div.content{
 div.about{
     background: #168341;
     height: 1080px;
-    width: 1349px;
+    width: 100%px;
 }
 
 div.aboutme{
@@ -678,7 +678,7 @@ div .contact{
     background-image: url("image/contact.png");
     background-size: 100% 90%;
     height: 820px;
-    width: 1349px;
+    width: 100%px;
     background-repeat: no-repeat;
 }
 .contact h1{
